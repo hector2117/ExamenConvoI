@@ -1,0 +1,10 @@
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\bin\Debug\FlujoNeto.exe.config
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\bin\Debug\FlujoNeto.exe
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\bin\Debug\FlujoNeto.pdb
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.csprojAssemblyReference.cache
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.FrmMain.resources
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.Properties.Resources.resources
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.csproj.GenerateResource.cache
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.exe
+C:\Users\Sistemas-11\Desktop\ExamenII\FlujoNeto\FlujoNeto\obj\Debug\FlujoNeto.pdb
